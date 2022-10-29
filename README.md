@@ -1,4 +1,4 @@
-##item-based-recommendaton
+## item-based-recommendaton
 공부하기 좋은 카페를 추천해주는데 공부환경점수를 이용해 sorting 한 것 중 추천해준다
 
 그 중 사용자가 가봤던 혹은 선호하는 카페와 유사한 카페를 아이템 기반으로 추천해주는데
